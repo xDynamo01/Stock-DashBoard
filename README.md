@@ -2,6 +2,8 @@
 
 A stock price dashboard built with **React + Vite + Tailwind CSS**, showing a table of stock quotes and an interactive chart. Data is fetched from the **Alpha Vantage API** using a demo or personal API key.
 
+<img width="1439" height="790" alt="image" src="https://github.com/user-attachments/assets/3a63ad7f-4258-4c70-9aa9-a20bda1c8d3b" />
+
 ---
 
 ## Features
